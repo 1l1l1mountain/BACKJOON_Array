@@ -2,14 +2,6 @@
 #include "main.h"
 int main() 
 {
-	
-	int a;
-
-
-
-
-
-	cin >> a;
-	cout << a;
+	Level06();
 	return 0;
 }
