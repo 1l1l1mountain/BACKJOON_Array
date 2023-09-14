@@ -24,6 +24,7 @@
     <ClCompile Include="Z06_solution.cpp" />
     <ClCompile Include="z07_solution.cpp" />
     <ClCompile Include="Z08_solution.cpp" />
+    <ClCompile Include="Z09_solution.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h" />
